@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/BlenderScene.unity
+    guid: b1e88febc24368848a396c925a850948
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: 2f0dd66e3729a184eb2e20e7915dce9c
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 7d703a7262954764d977bc109dda34cc,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
