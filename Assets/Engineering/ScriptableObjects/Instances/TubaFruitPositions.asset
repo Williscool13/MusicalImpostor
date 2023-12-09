@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc930d2d54cf5b2499986c4bee34511a, type: 3}
+  m_Name: TubaFruitPositions
+  m_EditorClassIdentifier: 
+  _positions:
+  - position: {x: -11.27, y: 1.25, z: 5.92}
+    eulerRotation: {x: 0, y: 107.532005, z: 0}
+  - position: {x: -7.8055353, y: 1.25, z: 9.445396}
+    eulerRotation: {x: 0, y: 152.53195, z: 0}
+  - position: {x: -2.5690753, y: 1.25, z: 10.364301}
+    eulerRotation: {x: 0, y: 197.532, z: 0}
+  - position: {x: -10.940882, y: 1.25, z: 0.9291866}
+    eulerRotation: {x: 0, y: 62.53203, z: 0}
+  - position: {x: -6.9796295, y: 1.25, z: -2.094552}
+    eulerRotation: {x: 0, y: 17.531958, z: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc930d2d54cf5b2499986c4bee34511a, type: 3}
+  m_Name: ViolinFruitPositions
+  m_EditorClassIdentifier: 
+  _positions:
+  - position: {x: -10.78, y: 1.25, z: -13.33}
+    eulerRotation: {x: 0, y: 62.53209, z: 0}
+  - position: {x: -10.823077, y: 1.25, z: -8.387421}
+    eulerRotation: {x: 0, y: 107.53204, z: 0}
+  - position: {x: -7.7701, y: 1.25, z: -4.0349245}
+    eulerRotation: {x: 0, y: 152.532, z: 0}
+  - position: {x: -7.018242, y: 1.25, z: -16.62632}
+    eulerRotation: {x: 0, y: 17.53211, z: 0}
+  - position: {x: -2.079106, y: 1.25, z: -15.963403}
+    eulerRotation: {x: 0, y: 332.53204, z: 0}
